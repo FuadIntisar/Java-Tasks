@@ -1,2 +1,2 @@
 # Java-Tasks
-Java practice programs .
+Java practice programs solutions .
