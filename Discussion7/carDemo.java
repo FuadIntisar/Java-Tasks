@@ -1,7 +1,5 @@
 package Discussion7;
-
 class Car {
-    // Attributes
     String owner;
     String brandName;
     String serialNumber;
@@ -24,7 +22,6 @@ class Car {
             System.out.println("Car started.");
         } 
     }
-
 
     void stopCar() {
         isRunning = false;
